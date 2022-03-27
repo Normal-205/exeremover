@@ -7,3 +7,5 @@ Install python 3.6+
 Open Terminal and type pip install watchdog
 Type python main.py
 It will run and will shutdown when you close terminal
+
+Special thanks to Lê Thành Nhân for such a great software 😏
